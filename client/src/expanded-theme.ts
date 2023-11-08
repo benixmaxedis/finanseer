@@ -1,4 +1,4 @@
-//eslint-disable-next-line
+//@ts-expect-error expected
 import { Palette, PaletteColor } from '@mui/material/styles/createPalette';
 
 declare module '@mui/material/styles/createPalette' {
